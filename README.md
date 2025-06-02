@@ -1,7 +1,7 @@
 # VEHICLE-DAMAGE-INSURANCE-CLAIM-VERIFICATION-USING-CONVOLUTIONAL-NEURAL-NETWORKS
 
 This study presents the development of a Convolutional Neural Network (CNN) designed to
-classify various types of vehicle damages based on image data. The model is trained to iden�fy
+classify various types of vehicle damages based on image data. The model is trained to identify
 six distinct damage categories: crack, scratch, flat tire, dent, glass shater, and broken lamp.
 The CNN architecture consists of multiple convolutional layers, pooling layers to reduce spatial
 dimensions progressively, and dense layers with ReLU actvaton functions, followed by a
